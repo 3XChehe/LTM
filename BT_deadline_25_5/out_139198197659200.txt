@@ -1,0 +1,13 @@
+D:\Study\LTM\BT_deadline_25_5
+chat_2client_server
+chat_2client_server.c
+chat_server
+chat_server.c
+file_server
+file_server.c
+http_server.c
+out_139198197659200.txt
+telnet_server
+telnet_server.c
+time_server.c
+users.txt
